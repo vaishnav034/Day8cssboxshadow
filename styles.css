@@ -1,0 +1,58 @@
+body {
+    background-color: lightcyan;
+}
+.Firstbox-container {
+    height: 40vh;
+    width: 26vw;
+    border-bottom: red;
+    border-width: 50px;
+    border: 4px;
+    border-color: green;
+    color: white;
+    border-style: solid;
+    margin-left: 15%;
+    margin-top: 15%;
+    
+    box-shadow: 0px 0px 0px -2px inset, 
+    10px -10px 0px -2px white,
+    10px -10px 0px 0px red,
+    20px -20px 0px -2px white,
+    20px -20px 0px 0px green,
+    30px -30px 0px -2px white,
+    30px -30px 0px 0px yellow,
+    40px -40px 0px -2px white,
+    40px -40px 0px 0px brown;
+
+}
+.container {
+    display: flex;
+}
+
+.Firstbox-container1 {
+    height: 40vh;
+    width: 20vw;
+    border-bottom: red;
+    border-width: 50px;
+    border: 4px;
+    border-color: green;
+    color: white;
+    border-style: solid;
+    margin-left: 20%;
+    margin-top: 15%;
+    
+    box-shadow: 0px 0px 0px -2px,  
+    0px 0px 5px 10px lightgreen,
+    0px 0px 10px 20px lightseagreen,
+    0px 0px 12px 30px lightcoral,
+    0px 0px 15px 40px lightblue;
+
+}
+
+.image {
+    width: 26vw;
+    height: 40vh;
+}
+.image1 {
+    width: 20vw;
+    height: 40vh;
+}
